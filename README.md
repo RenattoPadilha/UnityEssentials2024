@@ -2,7 +2,7 @@
 
 These are the project files I created to complete the [Unity Essentials 2024 tutorial](https://learn.unity.com/pathway/unity-essentials).
 
-[Demonstration Gif](/Demo_Gif.gif)
+![Demonstration Gif](https://github.com/RenattoPadilha/UnityEssentials2024/blob/main/Demo_Gif.gif)
 
 The game is running online on the Unity Play platform, and you can access it via this [link](https://play.unity.com/en/games/c13eebd7-6af7-424c-afa5-ea73af099144/unity-essentials-2024-project).
 
